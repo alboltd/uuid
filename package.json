@@ -68,6 +68,7 @@
     "@wdio/static-server-service": "9.27.0"
   },
   "overrides": {
+    "axios": "0.32.0",
     "handlebars": "4.7.10",
     "shell-quote": "1.12.0"
   },
